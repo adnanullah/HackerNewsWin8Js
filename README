@@ -1,0 +1,16 @@
+# Hacker News WinJS client 
+--------------------------
+
+Welcome to the Hacker News WinJS Wiki/FAQ!
+
+## What is Hacker News WinJS
+Hacker News WinJS is a Windows 8 application that can be used to browse the Hacker News feed. It also generates thumbnails for each article and displays it in the listing. It use PagePeeker to generate the thumbnails.
+
+### A bit of a disclaimer
+This app was created in a couple of hours in the middle of the night, the first few months after I joined Microsoft. It was created during my first night in Tallinn (Skype's original HQ), I had just gotten off a four or five hour red-eye flight to attend a Windows Azure training course and I could not sleep. Figured I would try my hand at developing a Win8 application since they were all the rage at the time and I wanted a HN client for my Surface RT :)   
+
+### So... Why create it?
+* To cut my teeth on Windows 8 appx development
+* Introduce myself to some sweet WinJS APIs
+* Because why the hell not?! :)
+

@@ -1,0 +1,6 @@
+.DS_Store
+*.suo
+*.pfx
+*.user
+src/HackerNews/bin
+src/HackerNews/bld
